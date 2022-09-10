@@ -11,9 +11,9 @@
   
 ## BaekJoon ✏️
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coding_dana)](https://solved.ac/coding_dana/)  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=coding_dana&theme=warm)   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coding_dana)](https://solved.ac/coding_dana/)   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=coding_dana&theme=warm)   
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abcdana122)](https://solved.ac/abcdana122/)  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=abcdana122&theme=warm)
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FAB300,100:DE5900&height=200&section=footer)

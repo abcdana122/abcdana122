@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FAB300,100:DE5900&height=200&section=header&text=DanaKim&fontSize=90&fontAlign=70&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A9F5E1,100:04B4AE&height=200&section=header&text=DanaKim&fontSize=90&fontAlign=70&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn)
 
 ## Hello! I'm Dana 🙌
 📙 안녕하세요! 현재 수원다산중에 재학중인 김단아라고 합니다.   
@@ -18,5 +18,5 @@
  🎤 초3 회장 / 초4 부회장 / 초5 전교부회장 / 초6 회장 / 중1 회장 / 중1 코딩자율동아리 회장   
  <a href="https://m.etnews.com/20221220000074?mc=mv_004_00001">🥉 한국코드페어해커톤 동상</a>
   
- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FAB300,100:DE5900&height=200&section=footer)   
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:04B4AE,100:A9F5E1&height=200&section=footer)   
 </div>

@@ -13,15 +13,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coding_dana)](https://solved.ac/coding_dana/)   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=coding_dana&theme=warm)   
-    
- ## My Awards 🏆 
- 🎤 초3 회장 / 초4 부회장 / 초5 전교부회장 / 초6 회장 / 중1 회장 / 중1~2 코딩자율동아리 회장   
- <a href="https://m.etnews.com/20221220000074?mc=mv_004_00001">🥉 한국코드페어해커톤 동상</a>   
- 🥈 2023 정보올림피아드 2차 은상 (전국 16위)    
- 🥉 2023 정보올림피아드 1차 동상   
- 🏆 경기 청소년 강연대회 경기도지사상 (우수상)   
- 🥈 SW 사고력 올림피아드 은상   
- 💎 IOI 국가대표 훈련생
   
  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:04B4AE,100:A9F5E1&height=200&section=footer)   
 </div>

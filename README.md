@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:A9F5E1,100:04B4AE&height=200&section=header&text=DanaKim&fontSize=90&fontAlign=70&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn)
 
 ## Hello! I'm Dana 🙌
-📙 안녕하세요! 현재 수원다산중에 재학중인 김단아라고 합니다.   
+📙 안녕하세요! KDMHS WP 24기 김단아라고 합니다.   
 💻 열심히 코딩하고 있습니다 :)  
 
 ## My Sns 📸
